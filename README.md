@@ -1,16 +1,20 @@
-### Hi there 👋
+# Добрый день, меня зовут Артур Галиаскаров! 👋
+## Я Python разработчик из Санкт-Петербурга 🇷🇺
 
-<!--
-**Arti1946/Arti1946** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Обо мне:
 
-Here are some ideas to get you started:
+#### 🎓 Образование
+- Высшее : "Музыкальное искусство эстрады" (СПБГИК) - 2016
+- Окончил 9-месячный курс "Python разработчик" от Яндекс.Практикум - 2023
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### 💻 Технический стек
+
+| Категория | Фреймворки и технологии |
+|----------|----------|
+| Использую   | Python 3, Django, PostgreSQL, SQLite3, Gunicorn, Nginx, Docker, Django REST Framework, GIT, язык SQL, библиотека Unittest. |
+| Также:   | базы данных, ООП, алгоритмы и структуры данных, тестирование.   |
+
+#### 📫 Контакты
+- [Telegram](https://t.me/artur_galiaskarov)
+- [LinkedIn](https://www.linkedin.com/in/артур-галиаскаров-217506bb/)
+- artigaliaskarov@yandex.ru
